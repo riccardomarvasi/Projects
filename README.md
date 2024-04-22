@@ -1,5 +1,5 @@
 # Projects
-This repository contains projects that were part of my Master's Thesis in Artificial Intelligence. Please note that I collaborated with other individuals as co-authors for these projects.
+This repository contains projects that were part of my Master's Degree in Artificial Intelligence. Please note that I collaborated with other individuals as co-authors for these projects.
 
 ## Project 1: EMOTION DISCOVERY AND MOOD FLIP REASONING IN CONVERSATIONS (EDIREF)
 - **Description:** A BERT model is employed to classify the emotion associated to the utterances of a series of dialogues taken from the F.R.I.E.N.D.S TV show. Also, the model is able to recognize the particular utterance(s) triggering a change in the mood of the speakers. 
