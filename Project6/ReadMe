@@ -1,0 +1,1 @@
+To run the code download everything on the same folder, then run the runPy.sh file. The code will create separate folders with results for the different models and different datasets. It will also provide the explainability studies made with SHAP, LIME and the custom ANOVA algorithm. To obtain also the DICE explanations, run the DiCE.py file.
