@@ -26,12 +26,12 @@ This repository contains projects that were part of my Master's Thesis in Artifi
 - **Technologies:** Python, Keras, TensorFlow.
 - **Results:** An average MSE of 0.001 is obtained
 
-## Project 5: EXPLANATION TECHNIQUES FOR BLACK BOX MACHINE LEARNING MODELS
+## Project 6: EXPLANATION TECHNIQUES FOR BLACK BOX MACHINE LEARNING MODELS
 - **Description:** This project tests the most famous explainability techniques (Lime, Dice and Shap) together with a custom Anova-based explainability algorithm. This study is based on the models defined and optimized by another team at the University of Bologna, working with data coming out of a "robot dance evaluation performance". More details are presented in the report.
 - **Technologies:** Python, Dice, Lime, Shap, ANOVA.
 - **Results:** The study explains why the ANOVA assumptions do not hold for any kind of data and provides an overview on the most important features for the "robot dance performance evaluation".
 
-## Project 6: OPTIMIZATION ALGORITHMS FOR REAL-WORLD PROBLEMS
+## Project 7: OPTIMIZATION ALGORITHMS FOR REAL-WORLD PROBLEMS
 - **Description:** This study explores 3 different optimization techniques to solve the same problem, specifically the "Multiple Couriers Planning Problem".
 - **Technologies:** Constraint Programming (CP), SMT, Mixed Integer Programming (MIP), Python.
 - **Results:** For detailed results and analysis, please refer to the relative report.
